@@ -2,17 +2,8 @@
 
 [![Software License](https://img.shields.io/badge/license-MIT-brightgreen.svg?style=flat-square)](LICENSE)
 
-
-<h2 align="center">
-  <img src="https://img.shields.io/badge/Next%20Level%20Week-%233-00b8d3?style=for-the-badge" alt="Evento Next Level Week 3" />
-  <img src="https://img.shields.io/badge/web%3F-ok-00b8d3?style=for-the-badge" alt="Sistema web Ok" />
-  <img src="https://img.shields.io/badge/server%3F-ok-00b8d3?style=for-the-badge" alt="Server OK" />
-  <img src="https://img.shields.io/badge/app mobile%3F-No-00b8d3?style=for-the-badge" alt="Aplicativo mobile No" />
-  <img src="https://img.shields.io/github/license/matheusfelipeog/proffy?color=00b8d3&style=for-the-badge" alt="License" />
-</h2>
-
-<h1 align="center">
-  <img src="./.github/assets/images/capa_happy.png" alt="Logo da Proffy" width="1000px" />
+<h1 >
+  <img align="center" src="./.github/assets/images/capa_happy.png" alt="Logo da Proffy" width="1000px" />
 </h1>
 
 
@@ -67,7 +58,7 @@ Este repositório é um monorepo, portanto, manterá os fontes do projeto **Web*
 Clone o repositório com:
 
 ```bash
-> git clone https://github.com/matheusfelipeog/happy.git
+> git clone https://github.com/tatucloud/happy.git
 ```
 
 As demonstrações utilizam **YARN** por padronização, mas, caso use **NPM**, basta substituir onde estiver escrito `yarn` por `npm`.
@@ -102,28 +93,11 @@ Para executar o projeto **backend** é necessário criar o banco de dados com to
 > yarn dev
 ```
 
-Acesse: [`http://127.0.0.1:3333/`](http://127.0.0.1:3333/) para visualizar.
+Para executar o projeto **mobile** é necessário criar o banco de dados com todas as tabelas utilizadas, para isso, use no diretório correspondente:
 
-
-## 🤝 Contribuições
-
-Siga os passos abaixo para contribuir:
-
-1. Faça o *fork* do projeto (<https://github.com/matheusfelipeog/happy>)
-
-2. Clone o seu *fork* para sua maquína (`git clone https://github.com/user_name/happy.git`)
-
-3. Crie uma *branch* para realizar sua modificação (`git checkout -b feature/name_new_feature`)
-
-4. Adicione suas modificações e faça o *commit* (`git commit -m "Descreva sua modificação"`)
-
-5. *Push* (`git push origin feature/name_new_feature`)
-
-6. Crie um novo *Pull Request*
-
-7. Pronto, agora só aguardar a análise 🚀 
-
-
+```bash
+> yarn start
+```
 ## 📜 License
 
 O projeto está sobre a licença [MIT](./LICENSE) ❤️ 
