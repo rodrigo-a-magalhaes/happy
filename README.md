@@ -25,14 +25,20 @@ O projeto está em desenvolvimento na [Next Level Week 3](https://nextlevelweek.
 
 
 ## 📸 Screenshots
-
+<div>
+  
 <p align="center">
   <strong>Tela Web</strong> <br />
   <img width="250" src=".gitstyle/images/CapaWeb.png" alt="Demonstração da plataforma Happy" />
-    <strong>Tela Mobile</strong> <br />
+</p>
+
+<p align="center">
+  <strong>Tela Mobile</strong> <br />
   <img width="250" src=".gitstyle/images/Capa.png" alt="Demonstração da plataforma Happy" />
 </p>
 
+</div>
+  
 ## 🛠 Techs
 
 - **Web**
