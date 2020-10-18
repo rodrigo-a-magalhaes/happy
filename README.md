@@ -3,7 +3,7 @@
 [![Software License](https://img.shields.io/badge/license-MIT-brightgreen.svg?style=flat-square)](LICENSE)
 
 <h1 align="center">
-  <img src="./.gitstyle/assets/images/capa_happy.png" alt="Logo da Proffy" width="1000px" />
+  <img src=".gitstyle/images/Capa.png" alt="Logo da Proffy" width="1000px" />
 </h1>
 
 
