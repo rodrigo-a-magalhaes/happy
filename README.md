@@ -58,7 +58,7 @@ Este repositório é um monorepo, portanto, manterá os fontes do projeto **Web*
 Clone o repositório com:
 
 ```bash
-> git clone https://github.com/matheusfelipeog/happy.git
+> git clone https://github.com/tatucloud/happy.git
 ```
 
 As demonstrações utilizam **YARN** por padronização, mas, caso use **NPM**, basta substituir onde estiver escrito `yarn` por `npm`.
@@ -94,25 +94,6 @@ Para executar o projeto **backend** é necessário criar o banco de dados com to
 ```
 
 Acesse: [`http://127.0.0.1:3333/`](http://127.0.0.1:3333/) para visualizar.
-
-
-## 🤝 Contribuições
-
-Siga os passos abaixo para contribuir:
-
-1. Faça o *fork* do projeto (<https://github.com/matheusfelipeog/happy>)
-
-2. Clone o seu *fork* para sua maquína (`git clone https://github.com/user_name/happy.git`)
-
-3. Crie uma *branch* para realizar sua modificação (`git checkout -b feature/name_new_feature`)
-
-4. Adicione suas modificações e faça o *commit* (`git commit -m "Descreva sua modificação"`)
-
-5. *Push* (`git push origin feature/name_new_feature`)
-
-6. Crie um novo *Pull Request*
-
-7. Pronto, agora só aguardar a análise 🚀 
 
 
 ## 📜 License
