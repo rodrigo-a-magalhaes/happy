@@ -91,6 +91,4 @@ Para executar o projeto **mobile** é necessário criar o banco de dados com tod
 ```
 ## 📜 License
 
-O projeto está sobre a licença [MIT](./LICENSE) ❤️ 
-
-Gostou? Deixe uma estrelinha para ajudar o projeto ⭐
+O projeto está sobre a licença [MIT](./LICENSE)
