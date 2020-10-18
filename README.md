@@ -23,21 +23,6 @@ Uma plataforma para facilitar o encontro de orfanatos por pessoas que querem vis
 
 O projeto está em desenvolvimento na [Next Level Week 3](https://nextlevelweek.com/episodios/omnistack/1/edicao/3)
 
-
-## 📸 Screenshots
-<div style="display: flex;">
-  
-<p align="center">
-  <strong>Tela Web</strong> <br />
-  <img width="250" src=".gitstyle/images/CapaWeb.png" alt="Demonstração da plataforma Happy" />
-</p>
-
-<p align="center">
-  <strong>Tela Mobile</strong> <br />
-  <img width="250" src=".gitstyle/images/Capa.png" alt="Demonstração da plataforma Happy" />
-</p>
-
-</div>
   
 ## 🛠 Techs
 
