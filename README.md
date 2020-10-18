@@ -3,7 +3,7 @@
 [![Software License](https://img.shields.io/badge/license-MIT-brightgreen.svg?style=flat-square)](LICENSE)
 
 <h1 align="center">
-  <img src=".gitstyle/images/Capa.png" alt="Logo da Proffy" width="1000px" />
+  <img src=".gitstyle/images/capa_happy.png" alt="Logo da Proffy" width="1000px" />
 </h1>
 
 
@@ -28,9 +28,9 @@ O projeto está em desenvolvimento na [Next Level Week 3](https://nextlevelweek.
 
 <p align="center">
   <strong>Tela Web</strong> <br />
-  <img width="250" src="./.gitStyle/images/CapaWeb.png" alt="Demonstração da plataforma Happy" />
+  <img width="250" src=".gitstyle/images/CapaWeb.png" alt="Demonstração da plataforma Happy" />
     <strong>Tela Mobile</strong> <br />
-  <img width="250" src="./.gitStyle/images/Capa.png" alt="Demonstração da plataforma Happy" />
+  <img width="250" src=".gitstyle/images/Capa.png" alt="Demonstração da plataforma Happy" />
 </p>
 
 ## 🛠 Techs
