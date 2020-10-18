@@ -2,8 +2,13 @@
 
 [![Software License](https://img.shields.io/badge/license-MIT-brightgreen.svg?style=flat-square)](LICENSE)
 
+<<<<<<< HEAD
 <h1 >
   <img align="center" src="./.github/assets/images/capa_happy.png" alt="Logo da Proffy" width="1000px" />
+=======
+<h1 align="center">
+  <img src="./.github/assets/images/capa_happy.png" alt="Logo da Proffy" width="1000px" />
+>>>>>>> a2b57baa1f1e8e5444e9f56ece65746a05eba419
 </h1>
 
 
@@ -93,11 +98,17 @@ Para executar o projeto **backend** é necessário criar o banco de dados com to
 > yarn dev
 ```
 
+<<<<<<< HEAD
 Para executar o projeto **mobile** é necessário criar o banco de dados com todas as tabelas utilizadas, para isso, use no diretório correspondente:
 
 ```bash
 > yarn start
 ```
+=======
+Acesse: [`http://127.0.0.1:3333/`](http://127.0.0.1:3333/) para visualizar.
+
+
+>>>>>>> a2b57baa1f1e8e5444e9f56ece65746a05eba419
 ## 📜 License
 
 O projeto está sobre a licença [MIT](./LICENSE) ❤️ 
