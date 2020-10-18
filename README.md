@@ -25,7 +25,7 @@ O projeto está em desenvolvimento na [Next Level Week 3](https://nextlevelweek.
 
 
 ## 📸 Screenshots
-<div>
+<div style="display: flex;">
   
 <p align="center">
   <strong>Tela Web</strong> <br />
